@@ -1,0 +1,18 @@
+Kubernetes for the Absolute Beginners - Hands-on.pdf
+Power BI Masterclass from Scratch in 90 minutes [2026].pdf
+Practice set AWS Certified Data Engineer - Associate certificate.pdf
+Programming for everybody.pdf
+Python data structures.pdf
+Supervised ML- Regression and Classification.pdf
+The Complete Python Bootcamp From Zero to Hero in Python.pdf
+Udemy Labs – Docker for the Absolute Beginner.pdf
+Udemy Labs - Online Kubernetes Lab for Beginners - Hands On.pdf
+Ultimate AWS Certified Cloud Practitioner CLF-C02 2026.pdf
+Advanced Git and GitHub Features.pdf
+aws_cloud_practitioner_ocean_certificate.pdf
+Bash Scripting and Shell Programming (Linux Command Line).pdf
+Docker for the Absolute Beginner - Hands On - DevOps.pdf
+Git and GitHub Complete Master Class.pdf
+Intermediate Git and GitHub Workflow.pdf
+Introduction to Continuous Integration & Continuous Delivery.pdf
+Introduction to Git and GitHub Basics.pdf

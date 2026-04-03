@@ -1,0 +1,8 @@
+DataBricks Use cases : (Refer data.csv)
+
+Please find the questions below. All of these can be completed on databricks notebook, if they don’t have access can sign up for community databricks as well
+
+1.	You have a CSV file named "data.csv" (attached) with the following columns: "id", "name", "age", and "salary". Load the data into a PySpark DataFrame and display the first 5 rows.
+2.	 Create a DataFrame "df" with columns "product_name" and "price". Load a few rows of data(min 10 rows with different values)  Filter the DataFrame to show only the products with a price greater than 1000 and display it 
+3.	Create DataFrame "df" contains a column "transaction_date" in string format (YYYY-MM-DD ex :2023-11-12). Load a few rows of data(min 10 rows with different values) . Convert this column to a DateType and display it 
+4.	Create two DataFrames "df1" and "df2", both containing columns "customer_id" and "customer_name". Load a few rows of data(min 5 rows with different values), Both data frames should have same structure. Perform a full outer join between the DataFrames and display the rows where the customer names match.

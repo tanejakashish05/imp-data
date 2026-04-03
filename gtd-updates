@@ -1,0 +1,76 @@
+Hartford Account: Github Migration Project, Capgemini
+04/2025 - 02/2026 (10 months)
+Contributed to a large-scale GitHub repository migration by automating data handling, optimizing scripts, managing EC2 instances, and ensuring smooth transitions through testing, debugging, and documentation.
+
+Created automation scripts to handle Excel-based data processing for batching.
+Analyzed logs for debugging and validation.
+Created and maintained project documentation and flowcharts.
+Performed testing of scripts and migration utilities.
+Analyzed and updated URLs across multiple sites.
+Executed and edited scripts directly on EC2 instances.
+Created new EC2 instances and performed required installations.
+Developed automation scripts for data retrieval and batching.
+Conducted release migration: script analysis, log review, and testing with new repos.
+Resolved multiple script errors during testing cycles.
+Debugged and fixed migration utility and wrapper scripts.
+Used WinSCP for secure file transfer and remote editing.
+Created conditional command sets to run scripts efficiently.
+Optimized scripts to reduce API calls.
+Used Git filter-repo to remove large files and clean commit history.
+Synced data between source and target repos, archived target after sync.
+Developed backout scripts for rollback scenarios.
+Environment & Tools:
+AWS EC2, GitHub, Git, Bash/Shell, WinSCP, Excel, Git filter-repo, Markdown
+
+Amazon EC2
+automation
+code optimization
+debugging
+documentation
+GitHub
+log analysis
+Microsoft Excel
+Script Testing
+Free text
+WinSCP
+
+
+Analyst: Data Engineering, Capgemini
+11/2024 - 12/2024 (2 months)
+Developed expertise in Big Data and cloud technologies through Capgemini's advanced training program, focusing on
+Microsoft Azure and data processing frameworks.
+
+Case Study 1 : Olympic Medal Analysis (2012-2016)
+
+      o   Loaded medal data from Azure Blob Storage to Azure Data Lake with log analytics.
+
+      o   Environment  : Azure Blob Storage, Azure Data Lake
+Case Study 2 : Medal Segregation
+
+      o   Segregated data into Gold, Silver, and Bronze folders in Azure Data Lake using Azure Data Factory.
+
+      o   Environment  : Azure Blob Storage, Azure Data Lake
+Case Study 3 : SCD Type 1 Employee Updates
+
+
+
+        o   Processed updated employee records in Azure Database with SQL.
+
+        o   Environment  : Azure Blob Storage, Azure Database
+Case Study 4 : Sales Record Validation
+
+      o   Classified valid and invalid sales data into separate tables in Azure Database.
+
+      o   Environment  : Azure Blob Storage, Azure SQL Database
+
+Microsoft Azure
+Microsoft Azure Data Factory
+Microsoft Azure Data Lake
+Azure databases
+Microsoft Azure SQL Database
+big data
+cloud computing
+data engineering
+Data processing frameworks
+Microsoft Azure Blob Storage
+SQL

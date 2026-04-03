@@ -6,3 +6,23 @@ Please find the questions below. All of these can be completed on databricks not
 2.	 Create a DataFrame "df" with columns "product_name" and "price". Load a few rows of data(min 10 rows with different values)  Filter the DataFrame to show only the products with a price greater than 1000 and display it 
 3.	Create DataFrame "df" contains a column "transaction_date" in string format (YYYY-MM-DD ex :2023-11-12). Load a few rows of data(min 10 rows with different values) . Convert this column to a DateType and display it 
 4.	Create two DataFrames "df1" and "df2", both containing columns "customer_id" and "customer_name". Load a few rows of data(min 5 rows with different values), Both data frames should have same structure. Perform a full outer join between the DataFrames and display the rows where the customer names match.
+
+
+                                                                      Case Study 
+Migrate data from On Premises to Azure SQL.
+Task to be Performed:
+1)	Load Medal data into single table in On Premises SQL Server.
+2)	Migrate the data from On Premises SQL server to Azure SQL.
+3)	Create Views for below scenarios using data which was migrated into Azure SQL:
+a.	Medal details won by specific Player over years 
+b.	Total Medals won in a particular sport by specified country
+c.	Year wise Medal count
+d.	Top 5 players by country for specified year
+e.	Ratio of Athletes Participation by gender over Year
+f.	Countries Rank based on specified Medal.
+g.	Recently added sports in Olympics
+h.	No of countries participated over years.
+i.	Gender wise participation over years
+4)	Performance Dashboard demo.
+5)	Create simple alert/notification and demo the same.
+provide to do steps and process in detail explaining each and every step

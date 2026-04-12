@@ -16,4 +16,4 @@ Git and GitHub Complete Master Class.pdf
 Intermediate Git and GitHub Workflow.pdf
 Introduction to Continuous Integration & Continuous Delivery.pdf
 Introduction to Git and GitHub Basics.pdf
-Ultimate AWS Certified Solutions Architect Associate 2026.pdf
+Ultimate AWS Certified Solutions Architect Associate 2026.pdf: UC-4bfed102-7b94-40b1-953e-ecaef489e0fa: https://www.udemy.com/certificate/UC-4bfed102-7b94-40b1-953e-ecaef489e0fa/

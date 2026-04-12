@@ -16,3 +16,4 @@ Git and GitHub Complete Master Class.pdf
 Intermediate Git and GitHub Workflow.pdf
 Introduction to Continuous Integration & Continuous Delivery.pdf
 Introduction to Git and GitHub Basics.pdf
+Ultimate AWS Certified Solutions Architect Associate 2026.pdf

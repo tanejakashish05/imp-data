@@ -1,26 +1,46 @@
-Hartford Account: Github Migration Project, Capgemini
-04/2025 - 02/2026 (10 months)
-Contributed to a large-scale GitHub repository migration by automating data handling, optimizing scripts, managing EC2 instances, and ensuring smooth transitions through testing, debugging, and documentation.
+DevOps‑oriented Software Engineer with hands‑on experience in large‑scale GitHub and GitLab repository migrations, automation scripting, and cloud environments. Strong in Python and Bash for building and optimizing migration utilities, managing AWS EC2 infrastructure, and implementing CI/CD workflows with GitHub Actions. Experienced in debugging complex migration failures, log analysis, repository optimization using Git LFS and git filter‑repo. Trained under Capgemini’s advanced data engineering program with foundational experience in Microsoft Azure, ETL pipelines, and SQL‑based data processing, and continuously strengthening cloud‑native DevOps skills in enterprise environments.
 
-Created automation scripts to handle Excel-based data processing for batching.
-Analyzed logs for debugging and validation.
-Created and maintained project documentation and flowcharts.
-Performed testing of scripts and migration utilities.
-Analyzed and updated URLs across multiple sites.
-Executed and edited scripts directly on EC2 instances.
-Created new EC2 instances and performed required installations.
-Developed automation scripts for data retrieval and batching.
-Conducted release migration: script analysis, log review, and testing with new repos.
-Resolved multiple script errors during testing cycles.
-Debugged and fixed migration utility and wrapper scripts.
-Used WinSCP for secure file transfer and remote editing.
-Created conditional command sets to run scripts efficiently.
-Optimized scripts to reduce API calls.
-Used Git filter-repo to remove large files and clean commit history.
-Synced data between source and target repos, archived target after sync.
-Developed backout scripts for rollback scenarios.
+Professional experience
+CIGNA ACCOUNT – GitLab to GitHub Migration Project, Capgemini
+03/2026 - 04/2026 (2 months)
+Incomplete
+Migrated 100+ repositories from GitLab to GitHub Cloud, including repository setup, metadata, users/teams, and post‑migration validation.
+
+Reviewed and optimized migration scripts (repo, metadata, users/teams, post‑migration) based on prior large‑scale migration experience; added Git LFS automation.
+Enhanced migration visibility by introducing status.csv summaries and detailed logs, providing clear insights into migrated utilities and execution outcomes.
+Analyzed and resolved failed migrations by debugging SSL issues, PAT permission errors, branch conflicts, and push failures through script updates.
+Handled manual migration of large‑file repositories exceeding LFS limits.
+Built a wrapper script to orchestrate all migration phases using a single configuration, reducing manual effort.
+Automated deployment of converted GitLab workflow YAMLs into GitHub Actions, including CI testing and validation.
+Developed scripts for user access extraction, GitLab‑to‑GitHub user mapping, and metadata comparison.
+Environment & Tools: GitLab, GitHub Cloud, Git, Python, Bash/Shell, GitHub Actions, Git LFS, git filter‑repo, Excel (CSV), SSH
+
+automation
+CICD
+code optimization
+data mapping
+GitHub
+GitLab
+logging frameworks
+scripting
+validation
+web scraping
+Hartford Account: Github Migration Project, Capgemini
+04/2025 - 02/2026 (11 months)
+Incomplete
+Contributed to a large-scale migration of 10,000+ repositories from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud (GHEC) across multiple migration waves.
+
+Built and executed Python-based automation to migrate repositories, Jenkins pipelines, and AWS pipelines, enabling scalable and repeatable executions.
+Developed automation for Excel-based input processing, batching, parallel execution, retries, and backout (rollback) scenarios, significantly reducing manual effort.
+Provisioned and managed AWS EC2 instances via IaC pipelines, including environment setup, secure SSH (PEM) access, and script execution on EC2.
+Optimized migration utilities by reducing GitHub API calls using batching, caching, and efficient request handling.
+Debugged and resolved complex migration issues including large repositories (git filter-repo), API failures, skipped repos, permissions, SSO access issues, archived repositories, and firewall/SSH restrictions.
+Performed log analysis, testing, validation, and release migrations, ensuring data integrity and successful cutover.
+Archived repositories and uploaded migration artifacts to Amazon S3 for long-term retention and compliance.
+Contributed to decommissioning GitHub Actions runners on EC2/ECS post-migration.
+Created and maintained technical documentation, workflows, flowcharts, and troubleshooting guides.
 Environment & Tools:
-AWS EC2, GitHub, Git, Bash/Shell, WinSCP, Excel, Git filter-repo, Markdown
+AWS EC2, Amazon S3, GitHub (GHES, GHEC), Git, Python, Bash/Shell, Jenkins, GitHub Actions, Excel, git filter‑repo, WinSCP
 
 Amazon EC2
 automation
@@ -28,49 +48,70 @@ code optimization
 debugging
 documentation
 GitHub
+GitHub Desktop
+GitHub Enterprise
 log analysis
 Microsoft Excel
+Python
 Script Testing
 Free text
+SSO
+troubleshooting
 WinSCP
-
-
 Analyst: Data Engineering, Capgemini
 11/2024 - 12/2024 (2 months)
-Developed expertise in Big Data and cloud technologies through Capgemini's advanced training program, focusing on
-Microsoft Azure and data processing frameworks.
+Incomplete
+Gained hands‑on experience in Big Data and cloud technologies through Capgemini’s advanced training program, with a focus on Microsoft Azure and data processing frameworks.
 
-Case Study 1 : Olympic Medal Analysis (2012-2016)
-
-      o   Loaded medal data from Azure Blob Storage to Azure Data Lake with log analytics.
-
-      o   Environment  : Azure Blob Storage, Azure Data Lake
-Case Study 2 : Medal Segregation
-
-      o   Segregated data into Gold, Silver, and Bronze folders in Azure Data Lake using Azure Data Factory.
-
-      o   Environment  : Azure Blob Storage, Azure Data Lake
-Case Study 3 : SCD Type 1 Employee Updates
-
-
-
-        o   Processed updated employee records in Azure Database with SQL.
-
-        o   Environment  : Azure Blob Storage, Azure Database
-Case Study 4 : Sales Record Validation
-
-      o   Classified valid and invalid sales data into separate tables in Azure Database.
-
-      o   Environment  : Azure Blob Storage, Azure SQL Database
-
-Microsoft Azure
-Microsoft Azure Data Factory
-Microsoft Azure Data Lake
+Olympic Medal Analysis (2012–2016):
+Loaded and analyzed medal data by moving it from Azure Blob Storage to Azure Data Lake with basic log analytics.
+Medal Segregation Pipeline:
+Segregated medal data into Gold, Silver, and Bronze categories using Azure Data Factory in Azure Data Lake.
+Employee Data Processing (SCD Type 1):
+Processed updated employee records using SQL in Azure Database.
+Sales Data Validation:
+Classified valid and invalid sales records into separate tables using Azure SQL Database.
 Azure databases
-Microsoft Azure SQL Database
 big data
 cloud computing
 data engineering
 Data processing frameworks
+Microsoft Azure
 Microsoft Azure Blob Storage
+Microsoft Azure Data Factory
+Microsoft Azure Data Lake
+Microsoft Azure SQL Database
 SQL
+Quality Assurance Intern, Safe Simple Tech
+10/2023 - 07/2024 (10 months)
+Incomplete
+Developed and executed automation test scripts using Selenium and Appium for Web, Android, and iOS platforms
+Performed manual testing and collaborated with developers to resolve defects
+Validated REST APIs and backend integrations
+Created technical documentation and test reports
+Environment & Tools:
+VS Code, Selenium, Appium
+
+Android
+Appium
+manual testing
+Microsoft Visual Studio Code
+quality assurance
+Selenium
+technical documentation
+Intern - Data Science, Machine Learning and AI using Python, Diginique TechLabs: IHUB IIT Roorkee
+07/2023 - 09/2023 (3 months)
+Incomplete
+Contributed to project development from concept to implementation
+Presented project outcomes, improving team understanding of objectives and solutions
+Gained hands-on experience in Python, data analysis, and machine learning tools
+Environment & Tools:
+VS Code
+
+data analysis
+machine learning
+Microsoft Visual Studio Code
+Python
+
+
+I find joy in exploring a variety of interests that fuel my energy. Whether it's expressing myself through dance, immersing in the rhythm of music, engaging in sports that keep me active, or diving into the world of games for a dose of fun and strategy, these pursuits not only keep me balanced but also inspire me to bring enthusiasm and a well-rounded approach to everything I do.

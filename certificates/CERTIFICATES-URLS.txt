@@ -1,0 +1,25 @@
+Claude Certified Developer - Foundations : https://www.credly.com/badges/b4309787-0bb9-4fb1-a6be-f1c358b7bc29/public_url
+Claude Certified Architect - Foundations : https://www.credly.com/badges/ad3e4600-99b7-44dc-8559-6a88793ed46e/public_url
+Databricks Certified Data Engineer Associate : https://credentials.databricks.com/47cb0e39-8256-49c9-b240-a497d5a39075#acc.VnDm9y8E
+Introduction to DevOps - Learn DevOps basics in 3 hours! : https://www.udemy.com/certificate/UC-b55ef91f-5579-4908-aee5-6b1f90685c5b/
+Elasticsearch 8, Kibana, Logstash, Beats: ELK Stack : https://www.udemy.com/certificate/UC-449d3978-773a-43fa-af18-f8598748dd31/
+Jenkins, From Zero To Hero: Become a DevOps Jenkins Master : https://www.udemy.com/certificate/UC-184fb141-2e87-4bfb-bb43-07cbeb48d151/
+Ansible for the Absolute Beginner - Hands-On - DevOps : https://www.udemy.com/certificate/UC-5d9a8ee6-c5f8-4cf2-a287-f092acdb1818/
+Mastering Prometheus and Grafana Stack : https://www.udemy.com/certificate/UC-408232c2-6774-476b-bccd-3da40972a92b/
+Data Warehouse Fundamentals for Beginners : https://www.udemy.com/certificate/UC-1645b1e5-a035-4c16-b558-73444bafd40b/
+Taming Big Data with Apache Spark 4 and Python - Hands On! : https://www.udemy.com/certificate/UC-fbbde526-b77e-4c97-bcdc-8079d23c3c27/
+Apache Kafka Series - Learn Apache Kafka for Beginners v3 : https://www.udemy.com/certificate/UC-29659e27-21d3-4f6b-9f40-6a9dba4f3acf/
+The Complete Hands-On Introduction to Apache Airflow 3 : https://www.udemy.com/certificate/UC-1212d157-ff38-4eca-b897-8acb485ec13e/
+The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert : https://www.udemy.com/certificate/UC-4f7e9f31-82c5-4e56-84d5-6754ae01e500/
+Terraform for the Absolute Beginners with Labs : https://www.udemy.com/certificate/UC-901960dc-1421-4a77-9723-38abf5146f9c/
+GitHub Actions - The Complete Guide : https://www.udemy.com/certificate/UC-4b6de453-5e99-48cc-a80e-d4aa91eeb528/
+Introduction to Computer Networking - Beginner Crash Course : https://www.udemy.com/certificate/UC-fe6cbccf-7fd8-46e4-843d-bc8e6a5c6709/
+Ultimate AWS Certified Solutions Architect Associate : https://www.udemy.com/certificate/UC-4bfed102-7b94-40b1-953e-ecaef489e0fa/
+Kubernetes for the Absolute Beginners - Hands-on : https://www.udemy.com/certificate/UC-f4ad3d9c-499e-436c-89e3-4b354e38c2a7/
+Docker for the Absolute Beginner - Hands On - DevOps : https://www.udemy.com/certificate/UC-b3c7304c-0f92-428a-9b4a-687da8bcb324/
+Introduction to Continuous Integration & Continuous Delivery : https://www.udemy.com/certificate/UC-59ac13b6-e477-4ecf-9730-d3808c2ad15a/
+Ultimate AWS Certified Cloud Practitioner CLF-C02 : https://www.udemy.com/certificate/UC-1a1a4f0a-fdb3-4282-be01-79225989d70c/
+Git and GitHub Complete Master Class : https://www.coursera.org/account/accomplishments/specialization/NTOU4F98CZI1
+Bash Scripting and Shell Programming (Linux Command Line) : https://www.udemy.com/certificate/UC-dbf72255-65ce-4973-8293-aae94642b92e/
+Power BI Masterclass from Scratch in 90 minutes : https://www.udemy.com/certificate/UC-9fd61a16-73dd-4cf6-aeab-95baf6c6753f/
+The Complete Python Bootcamp From Zero to Hero in Python : https://www.udemy.com/certificate/UC-076bd9b1-c384-4c8d-bbdc-d3fd0024bd51/

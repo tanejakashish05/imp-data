@@ -1,5 +1,5 @@
 Microsoft - Microsoft Certified Azure Administrator Associate (AZ-104) : https://learn.microsoft.com/en-us/users/kashishtaneja-0837/credentials/a73ca5ef08b44325
-Microsoft - Microsoft Certified DevOps Engineer Expert (AZ-400) : 
+Microsoft - Microsoft Certified DevOps Engineer Expert (AZ-400) : https://learn.microsoft.com/en-us/users/kashishtaneja-0837/credentials/c21997fdcae640a2
 Databricks - Databricks Certified Data Engineer Associate : https://credentials.databricks.com/47cb0e39-8256-49c9-b240-a497d5a39075#acc.VnDm9y8E
 Databricks - Databricks Certified Generative AI Engineer Associate : https://credentials.databricks.com/6c4f5543-16e6-4cd5-a69d-c9c1029aa2c7#acc.Ppci46Sl
 Anthropic - Claude Certified Associate - Foundations : https://www.credly.com/badges/5c6542b8-3e98-4a64-9fc5-302f14d38413/public_url
